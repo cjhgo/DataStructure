@@ -1,0 +1,284 @@
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 1	col: 2	ord: 1	di: 1
+---------------
+
+row: 1	col: 2	ord: 2	di: 1
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 1	col: 3	ord: 2	di: 1
+---------------
+
+row: 1	col: 2	ord: 2	di: 2
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 2	col: 3	ord: 2	di: 1
+---------------
+
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 2	col: 2	ord: 2	di: 1
+---------------
+
+row: 2	col: 2	ord: 3	di: 1
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 2	col: 3	ord: 3	di: 1
+---------------
+
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 3	col: 3	ord: 3	di: 1
+---------------
+
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 3	col: 4	ord: 4	di: 1
+---------------
+
+row: 3	col: 4	ord: 5	di: 1
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 3	col: 5	ord: 5	di: 1
+---------------
+
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 4	col: 5	ord: 5	di: 1
+---------------
+
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 4	col: 6	ord: 6	di: 1
+---------------
+
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 4	col: 7	ord: 7	di: 1
+---------------
+
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 4	col: 8	ord: 8	di: 1
+---------------
+
+row: 4	col: 8	ord: 9	di: 1
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 4	col: 9	ord: 9	di: 1
+---------------
+
+row: 4	col: 8	ord: 9	di: 2
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 5	col: 9	ord: 9	di: 1
+---------------
+
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 5	col: 8	ord: 9	di: 1
+---------------
+
+row: 5	col: 8	ord: 10	di: 1
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 5	col: 9	ord: 10	di: 1
+---------------
+
+row: 5	col: 8	ord: 10	di: 2
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 6	col: 9	ord: 10	di: 1
+---------------
+
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 6	col: 8	ord: 10	di: 1
+---------------
+
+row: 6	col: 8	ord: 11	di: 1
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 6	col: 9	ord: 11	di: 1
+---------------
+
+row: 6	col: 8	ord: 11	di: 2
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 7	col: 9	ord: 11	di: 1
+---------------
+
+row: 6	col: 8	ord: 11	di: 3
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 7	col: 8	ord: 11	di: 1
+---------------
+
+row: 7	col: 8	ord: 12	di: 1
+row: 6	col: 8	ord: 11	di: 3
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 7	col: 9	ord: 12	di: 1
+---------------
+
+row: 7	col: 8	ord: 12	di: 2
+row: 6	col: 8	ord: 11	di: 3
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 8	col: 9	ord: 12	di: 1
+---------------
+
+row: 7	col: 8	ord: 12	di: 3
+row: 6	col: 8	ord: 11	di: 3
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
+#############
+row: 8	col: 8	ord: 12	di: 1
+---------------
+
+we solved the maze!
+row: 8	col: 8	ord: 13	di: 1
+row: 7	col: 8	ord: 12	di: 3
+row: 6	col: 8	ord: 11	di: 3
+row: 5	col: 8	ord: 10	di: 3
+row: 4	col: 8	ord: 9	di: 3
+row: 4	col: 7	ord: 8	di: 1
+row: 4	col: 6	ord: 7	di: 1
+row: 4	col: 5	ord: 6	di: 1
+row: 3	col: 4	ord: 5	di: 2
+row: 3	col: 3	ord: 4	di: 1
+row: 2	col: 2	ord: 3	di: 2
+row: 1	col: 2	ord: 2	di: 3
+row: 1	col: 1	ord: 1	di: 1
