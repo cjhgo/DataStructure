@@ -3,11 +3,13 @@ viewport:width=device-width,initial-scale=1
 目录
 
 [TOC]
-##高级操作系统
-###内存管理
-[Memory Management Reference][5]
-[垃圾回收]
+
+
 ##数据结构进阶
+[操作系统中的数据结构][7]
+https://github.com/mirrors/linux-2.6/blob/master/include/linux/plist.h
+https://github.com/mirrors/linux-2.6/blob/b3a3a9c441e2c8f6b6760de9331023a7906a4ac6/include/linux/prio_heap.h
+https://github.com/mirrors/linux-2.6/blob/b3a3a9c441e2c8f6b6760de9331023a7906a4ac6/include/linux/hash.h
 ###堆与优先级队列
 + 用一般的队列实现的优先级队列
 	- 出队操作$O(n):遍历队列,找出优先级最高的$
@@ -67,3 +69,4 @@ $数组长m,桶的size为n,则有m/n=d个桶\\\
 [4]:https://www.google.com.hk/#newwindow=1&q=hash++bucket
 [5]:http://www.memorymanagement.org/mmref/index.html#mmref-intro
 [6]:https://www.google.com.hk/#newwindow=1&q=优先级队列+堆
+[7]:http://www.zhihu.com/question/27943222/answer/38739231
