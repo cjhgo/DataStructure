@@ -32,6 +32,7 @@ https://github.com/mirrors/linux-2.6/blob/b3a3a9c441e2c8f6b6760de9331023a7906a4a
 [google 优先级队列 堆][6]
 ###排序
 ####哈希
+load factor 装填因子 常取bound0.7
 #####hash bucket
 把哈希表看成由相同大小的桶组成
 即,把一维数组按定长分组

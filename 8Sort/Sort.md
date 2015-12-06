@@ -482,3 +482,27 @@ http://blog.csdn.net/hkx1n/article/details/3922249
 <u>比较操作(找最小值)在无序序列中进行</u>
 + 冒泡排序每次选出最大值顶到后面
 <u>比较操作时相邻比较</u>
+
+
+
+
+TODO
++ 五类排序算法,专题,
+!!归并排序的理解http://www.cnblogs.com/kubixuesheng/p/4355865.html
+http://www.cnblogs.com/kubixuesheng/
++ google 数据页面尚未分配 数组按先行后列存放
+http://m.shangxueba.com/ask/2295200.html
+http://www.cskaoyan.com/viewthread.php?action=printable&tid=80105
++ 高斯消元法,矩阵的本质的理解
+http://blog.csdn.net/u010182633/article/details/45225179
++ baidu/google 堆排序 初始状态 
+http://www.cskaoyan.com/thread-67550-1-1.html
+http://www.zybang.com/question/d5ac76903b092ff214bb830ec6fe431d.html
+http://www.cnblogs.com/cj723/archive/2011/04/22/2024269.html
++ 简单选择排序 稳定
++ 各种排序算法的稳定性的说明http://blog.csdn.net/hkx1n/article/details/3922249
++ 什么是分区文件 google 分区文件
+子树也是堆，递归地，任何结点小于其子孙
++ google 外排序 多路归并
+
+
