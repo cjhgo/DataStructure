@@ -504,5 +504,5 @@ http://www.cnblogs.com/cj723/archive/2011/04/22/2024269.html
 + 什么是分区文件 google 分区文件
 子树也是堆，递归地，任何结点小于其子孙
 + google 外排序 多路归并
-
++ https://www.google.com.hk/#newwindow=1&q=%E6%8A%98%E5%8D%8A%E6%9F%A5%E6%89%BE+%E5%A4%B1%E8%B4%A5+%E6%9F%A5%E6%89%BE%E9%95%BF%E5%BA%A6
 
