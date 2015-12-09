@@ -7,6 +7,7 @@ viewport:width=device-width,initial-scale=1
 ##KMP 算法
 
 原理,要点
+
  + i指针不会退,i指针,主串指针不回退
  + 不会退,然后将第i个字符和模式串的第k个字符比较
  应满足什么什么关系?
@@ -32,3 +33,20 @@ viewport:width=device-width,initial-scale=1
 + next数组怎么求,?分类讨论+递推
 已知next[j],求next[j+1]
 	- 图示
+	![求next[j]](file://E:/Users/chen-pc/datastructure/4String/KMP_NEXT.png)
+```c
+/*
+**
+**
+*/
+next[j]=k,
+next[k]=k'
+if pattern[k]==pattern[j] 
+	then next[j+1]= k+1
+else if next[k'] == pattern[j]
+	then next[j+1]=k'+1
+else if
+.
+.
+.
+```	
